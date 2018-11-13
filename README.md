@@ -27,9 +27,10 @@ The second problem is  maximization of expected profit's natural logarithm, i.e.
 Following methods are going to be implemented in our project
 
 ### First-order Methods
-* Projected gradient descent
-* Probably conditional gradient descent (after deadline)
-* Probably stochastic gradient descent (after deadline)
+* gradient descent with no linear constraints
+* projected gradient descent
+* probably conditional gradient descent (after deadline)
+* probably stochastic gradient descent (after deadline)
 
 ### Second-Order Methods
 
