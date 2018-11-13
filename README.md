@@ -1,5 +1,6 @@
 # Methods of Optimization
 **Study Project 2018**
+------------------------------------------------------
  **Authors**: Krivoshapko Mariya, Kudryavtseva Polina, Anisimova Victoria
 
 ----------------------------------------------------------------------
