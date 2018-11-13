@@ -2,7 +2,7 @@
 **Study Project 2018**
 ------------------------------------------------------
  **Authors**: Krivoshapko Mariya, Kudryavtseva Polina, Anisimova Victoria
-----------------------------------------------------------------------
+ 
 ## Task
 Let us recall the statement of problem. 
 
