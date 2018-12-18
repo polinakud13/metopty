@@ -22,16 +22,14 @@ Indeed, the first problem here is equivalent to maximization of $a^T x$ subject 
 The second problem is  maximization of expected profit's natural logarithm, i.e.: $$a^T x + b − \ln (1 + exp(a^T x + b) ) + \ln(c^T x + d)$$ subject to $Fx \preceq g$
 
 ## Methods Implemented
-Following methods are going to be implemented in our project
+Following methods are implemented in our project
 
 ### First-order Methods
-* gradient descent with no linear constraints
-* projected gradient descent
-* probably conditional gradient descent (after deadline)
-* probably stochastic gradient descent (after deadline)
+* gradient descent
 
 ### Second-Order Methods
-
+* Newton Method
 ### Quasi-Newton Methods
-
+* Quasi-Newton Method
 ### Inner Point Method
+* Barrier method is used in order to add linear constraints
